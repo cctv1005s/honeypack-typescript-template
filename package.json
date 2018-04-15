@@ -1,0 +1,40 @@
+{
+  "name": "honeypack-typescript-template",
+  "version": "0.0.1",
+  "description": "make realation visualize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "honeypack start",
+    "build": "honeypack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cctv1005s/honeypack-typescript-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "honeypack",
+    "template"
+  ],
+  "author": "Gorgear (cctv1005s@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cctv1005s/honeypack-typescript-template/issues"
+  },
+  "homepage": "https://github.com/cctv1005s/honeypack-typescript-template#readme",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.5",
+    "@types/react": "^16.3.10",
+    "@types/react-dom": "^16.0.5",
+    "honeypack": "^0.3.0",
+    "ts-loader": "^2.3.7",
+    "tslint-react": "^3.5.1",
+    "typescript": "^2.8.1",
+    "webpack": "^3.11.0"
+  }
+}
